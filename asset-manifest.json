@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.300e0dac.chunk.js",
-    "main.js.map": "/static/js/main.300e0dac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4359414c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4359414c.js.map",
-    "static/js/2.485915af.chunk.js": "/static/js/2.485915af.chunk.js",
-    "static/js/2.485915af.chunk.js.map": "/static/js/2.485915af.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.839d574b4204932ad3d81b592622c216.js": "/precache-manifest.839d574b4204932ad3d81b592622c216.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.485915af.chunk.js.LICENSE": "/static/js/2.485915af.chunk.js.LICENSE"
+    "main.js": "/rocketfy/static/js/main.300e0dac.chunk.js",
+    "main.js.map": "/rocketfy/static/js/main.300e0dac.chunk.js.map",
+    "runtime-main.js": "/rocketfy/static/js/runtime-main.d1e888eb.js",
+    "runtime-main.js.map": "/rocketfy/static/js/runtime-main.d1e888eb.js.map",
+    "static/js/2.31b8ff52.chunk.js": "/rocketfy/static/js/2.31b8ff52.chunk.js",
+    "static/js/2.31b8ff52.chunk.js.map": "/rocketfy/static/js/2.31b8ff52.chunk.js.map",
+    "index.html": "/rocketfy/index.html",
+    "precache-manifest.b28ffffbaed2b47db6e30f1861dec4bc.js": "/rocketfy/precache-manifest.b28ffffbaed2b47db6e30f1861dec4bc.js",
+    "service-worker.js": "/rocketfy/service-worker.js",
+    "static/js/2.31b8ff52.chunk.js.LICENSE": "/rocketfy/static/js/2.31b8ff52.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4359414c.js",
-    "static/js/2.485915af.chunk.js",
+    "static/js/runtime-main.d1e888eb.js",
+    "static/js/2.31b8ff52.chunk.js",
     "static/js/main.300e0dac.chunk.js"
   ]
 }
